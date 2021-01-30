@@ -161,6 +161,10 @@ img {
 	text-decoration: none;
 }
 
+.navegacion a:hover {
+	color: goldenrod;
+}
+
 @media (min-width: 768px) {
 	.navegacion a {
 		display: inline;
