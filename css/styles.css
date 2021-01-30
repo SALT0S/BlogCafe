@@ -60,6 +60,10 @@ img {
 	margin: 0;
 }
 
+.NavHover:hover {
+	color: goldenrod;
+}
+
 /* Grid */
 @media (min-width: 768px) {
 	.grid {
